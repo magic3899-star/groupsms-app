@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
+  "versionCode": 7,
+  "versionName": "2.5",
   "url": "https://github.com/magic3899-star/groupsms-app/releases/latest/download/groupsms.apk",
-  "notes": "글 쓰는 동안 배너를 감추고, 변수 버튼을 글쓰는 칸 위로 올렸습니다. 변수를 누르면 커서 자리에 들어갑니다."
+  "notes": "글 쓸 때 배너가 확실히 사라지도록 고쳤습니다."
 }

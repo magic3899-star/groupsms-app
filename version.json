@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
+  "versionCode": 6,
+  "versionName": "2.4",
   "url": "https://github.com/magic3899-star/groupsms-app/releases/latest/download/groupsms.apk",
-  "notes": "양식을 누르면 바로 글에 들어갑니다. 설치 링크를 문자·카톡으로 보내는 기능도 넣었습니다."
+  "notes": "글 쓰는 동안 배너를 감추고, 변수 버튼을 글쓰는 칸 위로 올렸습니다. 변수를 누르면 커서 자리에 들어갑니다."
 }

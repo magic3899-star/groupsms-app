@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "2.5",
+  "versionCode": 8,
+  "versionName": "2.6",
   "url": "https://github.com/magic3899-star/groupsms-app/releases/latest/download/groupsms.apk",
-  "notes": "글 쓸 때 배너가 확실히 사라지도록 고쳤습니다."
+  "notes": "이름 명단을 통째로 붙여넣으면 주소록에서 한 번에 찾아 추가합니다."
 }

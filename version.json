@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.9",
+  "versionCode": 12,
+  "versionName": "2.9.1",
   "url": "https://github.com/magic3899-star/groupsms-app/releases/latest/download/groupsms.apk",
-  "notes": "주소록에 「최윤규님 (26.01.03)」처럼 저장돼 있어도 문자에는 「최윤규님」으로 나갑니다. 님·고객님 같은 호칭은 저장해 두신 그대로 살립니다."
+  "notes": "주소록에 「소지섭님 (26.01.03)」처럼 저장돼 있어도 문자에는 「소지섭님」으로 나갑니다. 님·고객님 같은 호칭은 저장해 두신 그대로 살립니다."
 }
